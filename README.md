@@ -18,7 +18,7 @@ Please refer to the LICENSE in the repo.
 Click the "Generate Password" button to start passwrod promts. 
 
 ## ScreenShot
-<link 
+<img width'1040' alt='screenshot of password generator' src='https://github.com/wjg97/Passwrod-Generator-/blob/main/Password%20Generator.png'>
 
 ##Link to Webpage
 
